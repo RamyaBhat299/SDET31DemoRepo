@@ -28,5 +28,11 @@ public class NewTest {
 		
 		
 	}
+	
+	@Test
+	public void m1()
+	{
+		
+	}
 
 }
