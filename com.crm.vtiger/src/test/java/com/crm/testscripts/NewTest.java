@@ -24,6 +24,8 @@ public class NewTest {
 		
 		System.out.println("conflict practice");
 		
+		System.out.println("conflict practice");
+		
 		
 	}
 
