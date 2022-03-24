@@ -15,6 +15,7 @@ public class NewTest {
 		System.out.println("D://");
 		System.out.println("new user modifying your new repo");
 		
+		System.out.println("conflict practice");
 	}
 
 }
