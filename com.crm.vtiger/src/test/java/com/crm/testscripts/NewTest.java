@@ -16,7 +16,15 @@ public class NewTest {
 		System.out.println("new user modifying your new repo");
 		System.out.println("updated new repo");
 		
+		
+	}
+	@Test
+	public void conflict()
+	{
+		
 		System.out.println("conflict practice");
+		
+		
 	}
 
 }
