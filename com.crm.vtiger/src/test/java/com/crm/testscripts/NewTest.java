@@ -15,12 +15,12 @@ public class NewTest {
 		System.out.println("D://");
 		System.out.println("new user modifying your new repo");
 		System.out.println("updated new repo");
-<<<<<<< HEAD
+
 			}
-=======
+
 		
 		
-	}
+	
 	@Test
 	public void conflict()
 	{
@@ -37,6 +37,6 @@ public class NewTest {
 	{
 		
 	}
->>>>>>> branch 'master' of https://github.com/RamyaBhat299/SDET31DemoRepo.git
+
 
 }
