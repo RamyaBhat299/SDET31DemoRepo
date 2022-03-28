@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginTest {
 	
-	@Test(enabled = false)
+	@Test
 	public void login()
 	{
 		WebDriver driver=null;
