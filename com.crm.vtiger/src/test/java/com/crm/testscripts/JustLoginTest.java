@@ -22,7 +22,7 @@ public class JustLoginTest {
 		driver.findElement(By.cssSelector(".pwdfield")).sendKeys("manager");
 		
 		driver.findElement(By.cssSelector("#loginButton")).click();
-		driver.close();
+		driver.quit();
 	}
 
 }
